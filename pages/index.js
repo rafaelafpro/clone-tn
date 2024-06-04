@@ -1,7 +1,8 @@
-function Home (){
-    return(
-        <h2>Hello World</h2>
-    )
-}
+import { useState, useEffect } from "react";
 
-export default Home;
+export default function Home() {
+
+
+
+
+}
