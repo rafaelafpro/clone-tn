@@ -3,7 +3,7 @@ import { useState, useEffect } from "react";
 export default function Home() {
   return (
     <div style={styles.container}>
-      <h4 style={styles.title}>Olá mundo!</h4>
+      <h4 style={styles.title}>Em construção</h4>
     </div>
   );
 }
